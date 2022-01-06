@@ -4,9 +4,9 @@
   </a>
 </h1>
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
+<div align="center"><img src="https://gitee.com/Narakue/img/raw/master/img/0.png" /></div>
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://gitee.com/Narakue/img/raw/master/img/1.svg" /></div>
 
 
 
