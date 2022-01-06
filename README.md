@@ -4,9 +4,9 @@
   </a>
 </h1>
 
-<div align="center"><img src="https://gitee.com/Narakue/img/raw/master/img/0.png" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/narakue/narakue/img/0.png" /></div>
 
-<div align="center"><img src="https://gitee.com/Narakue/img/raw/master/img/1.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/narakue/narakue/img/1.svg" /></div>
 
 
 
