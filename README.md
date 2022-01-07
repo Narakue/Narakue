@@ -11,6 +11,6 @@
 
 
 <div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Narakue&show_icons=true&theme=tokyonight" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narakue&layout=compact" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Narakue&show_icons=true&theme=tokyonight" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narakue&layout=compact" />
 </div>
